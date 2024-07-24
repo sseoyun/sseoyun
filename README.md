@@ -2,7 +2,7 @@
 # 🏃‍♂️ Education & Experience
 * Konkuk University - Department of Applied Statistics 2021.03 ~ 
 * 건국대학교 교내 데이터 분석 학회 KUGGLE -  2022.08. ~ 2023.8
-* 과학기술정보통신부 주관 한이음 ICT 멘토링 멘티 팀장 - 2023.03. ~ 2023.11
+* 과학기술정보통신부 주관 한이음 ICT 멘토링 "AI 기반 승용마 보행 이상 상태 진단", "AI 기반 말 개체 식별" 프로젝트 멘티 팀장 - 2023.03. ~ 2023.11
 * Data Annotator -  2023.07. ~ 2023.11
 * IT 연합동아리 TAVE 12기 - 2023.09. ~ 2024.1
 
@@ -19,9 +19,19 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+
+
 # 🏆 Awards
 | 날짜       | 대회                            | 수상             | 학교         |
 |------------|--------------------------------|-----------------|--------------|
 | 2023.10.31 | 응용통계학과 제 4회 추계학술대회 | 우수상 (2등)      | 건국대학교   |
 | 2023.11.29 |문화·체육·관광 관련 디지털 기술을 활용한 <br> 우수사례 및 아이디어| 우수상 (아이디어부문) | 문화체육관광부 |
 | 2024.5.24 | 뤼튼 생성형 AI 아이디어 해커톤 <br>(생성형 AI Ideathon 건국대학교 예선) | 우수상 | 건국대학교   |
+
+
+
+
+
+
+
+

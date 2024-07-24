@@ -2,9 +2,10 @@
 # 🏃‍♂️ Education & Experience
 * Konkuk University - Department of Applied Statistics 2021.03 ~ 
 * 건국대학교 교내 데이터 분석 학회 KUGGLE -  2022.08. ~ 2023.8
-* 과학기술정보통신부 주관 <br>한이음 ICT 멘토링 "AI 기반 승용마 보행 이상 상태 진단", "AI 기반 말 개체 식별" 프로젝트 멘티 팀장 - 2023.03. ~ 2023.11
+* 과학기술정보통신부 주관 한이음 ICT 멘토링 <br> "AI 기반 승용마 보행 이상 상태 진단", "AI 기반 말 개체 식별" 프로젝트 멘티 팀장 - 2023.03. ~ 2023.11
 * Data Annotator -  2023.07. ~ 2023.11
 * IT 연합동아리 TAVE 12기 - 2023.09. ~ 2024.1
+* 한국정보처리학회 ACK 2023 학술발표대회 "딥러닝을 활용한 말 개체 식별 프레임워크" 논문 참여 - 2023.11
 
 # 🛠 Skills & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

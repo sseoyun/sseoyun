@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FFC0CB&height=300&section=header&text=seoyun&fontSize=90)
 # 🏃‍♂️ Education & Experience
-* Konkuk University | Department of Applied Statistics 2021.03 ~ 
+* Department of Applied Statistics, Konkuk University | 2021.03 ~ 
 * 건국대학교 교내 데이터 분석 학회 KUGGLE |  2022.08. ~ 2023.8
 * 과학기술정보통신부 주관 한이음 ICT 멘토링 멘티 팀장 | 2023.03. ~ 2023.11
 * Data Annotator |  2023.07. ~ 2023.11
